@@ -1,0 +1,9 @@
+{
+  "buildings": [
+    { "id": 1, "name": "教学楼A", "electric": 1755, "water": 458 },
+    { "id": 2, "name": "教学楼B", "electric": 1287, "water": 376 },
+    { "id": 3, "name": "教学楼C", "electric": 1053, "water": 278 },
+    { "id": 4, "name": "教学楼D", "electric": 936, "water": 245 },
+    { "id": 5, "name": "教学楼E", "electric": 819, "water": 278 }
+  ]
+}
